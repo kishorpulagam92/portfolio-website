@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --font-poppins: 'Poppins', sans-serif;
+    --font-roboto: 'Roboto', sans-serif;
+  }
+}
+
+@layer components {
+  .section-padding {
+    @apply py-16 px-4 md:px-8 lg:px-16;
+  }
+  
+  .heading-1 {
+    @apply font-poppins text-4xl md:text-5xl lg:text-6xl font-bold;
+  }
+  
+  .heading-2 {
+    @apply font-poppins text-3xl md:text-4xl font-bold;
+  }
+  
+  .body-text {
+    @apply font-roboto text-base md:text-lg text-gray-300;
+  }
+  
+  .btn-primary {
+    @apply bg-primary hover:bg-blue-600 text-white font-medium py-2 px-6 rounded-lg transition-colors;
+  }
+  
+  .btn-secondary {
+    @apply bg-accent hover:bg-yellow-500 text-secondary font-medium py-2 px-6 rounded-lg transition-colors;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #222831;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #007BFF;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0056b3;
+} 
