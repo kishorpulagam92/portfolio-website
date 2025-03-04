@@ -3,8 +3,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  // Remove basePath for local development
-  // basePath: '/portfolio-website',
+  basePath: '/portfolio-website',
 }
 
 module.exports = nextConfig 

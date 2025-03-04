@@ -45,6 +45,7 @@ export default function Hero() {
               fill
               className="object-cover rounded-full"
               priority
+              sizes="(max-width: 768px) 100vw, 50vw"
             />
           </div>
         </motion.div>
