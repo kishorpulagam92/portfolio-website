@@ -39,14 +39,13 @@ export default function Hero() {
           className="hidden md:block"
         >
           <div className="relative w-full aspect-square max-w-md mx-auto">
-            <Image
-              src="/images/Kishor_pic.jpeg"
-              alt="Nandakishor Reddy Pulagam"
-              fill
-              className="object-cover rounded-full"
-              priority
-              sizes="(max-width: 768px) 100vw, 50vw"
-            />
+            <div className="w-full h-full rounded-full overflow-hidden">
+              <img
+                src="/portfolio-website/images/Kishor_pic.jpeg"
+                alt="Nandakishor Reddy Pulagam"
+                className="w-full h-full object-cover"
+              />
+            </div>
           </div>
         </motion.div>
       </div>
