@@ -13,9 +13,11 @@ const experiences = [
       'Led a team of data engineers in developing and implementing a new data lake house, improving data performance and scalability by 30%',
       'Architected and implemented end-to-end data pipelines using Azure and Databricks, facilitating large datasets efficient extraction, transformation, and loading (ETL) for multiple retailing clients',
       'Optimized data pipelines using Spark, achieving significant performance gains, reducing runtime by 40% and cost by 20%',
-      'Developed and implemented a data ingestion strategy to support real-time and batch data ingestion using Spark structured streaming',
-      'Implemented the CI-CD pipelines in Azure DevOps to integrate seamlessly with Azure Databricks and ADF',
-      'Implemented delta tables and scheduled automated jobs in Databricks, ensuring timely and accurate data extraction',
+      'Developed and implemented a data ingestion strategy to support real-time and batch data ingestion using Spark structured streaming, improving timeliness and accuracy of data reporting',
+      'Implemented the CI-CD pipelines in Azure DevOps to integrate seamlessly with Azure Databricks and ADF, ensuring efficient and reliable deployment of data processing pipelines',
+      'Practices involve leveraging scalable Azure services such as Azure Databricks for distributed data processing, Azure Synapse Analytics for high-performance analytics, and Azure Data Lake Storage for scalable data storage',
+      'Expert in implementing comprehensive monitoring and alerting solutions to ensure data pipeline reliability and availability',
+      'Implemented delta tables and scheduled automated jobs in Databricks, ensuring timely and accurate data extraction from diverse sources'
     ],
   },
   {
@@ -27,6 +29,8 @@ const experiences = [
       'Created and open-sourced a Python package, DXC-Industrialized-AI-Starter, to help data scientists with end-to-end data science tasks',
       'Developed an algorithm that improved the accuracy of estimating man-hours needed to fix Airbus defects by 15%',
       'Successfully implemented the Medallion Architecture, providing a unified and structured approach to store data from multiple sources',
+      'Practices include leveraging Microsoft\'s integration capabilities such as Azure Logic Apps and Azure Functions for orchestrating data workflows and implementing custom data transformations',
+      'Conducted thorough data analysis and quality checks, ensuring the reliability and consistency of data, and implemented industry best practices'
     ],
   },
   {
@@ -35,9 +39,12 @@ const experiences = [
     period: 'Aug 2014 - Sep 2019',
     responsibilities: [
       'Designed, developed, and maintained an Enterprise Data Warehouse using Microsoft SQL Server to support healthcare data management and analytics',
-      'Created and managed staging (stg) and Operational Data Store (ODS) environments to ensure data integrity',
-      'Created multiple Oracle Apex applications for a healthcare client and provided database support',
-      'Optimized database performance by implementing indexing, partitioning, and query optimization techniques',
+      'Created and managed staging (stg) and Operational Data Store (ODS) environments to ensure data integrity, consistency, and accessibility',
+      'Created multiple Oracle Apex applications for a healthcare client and provided database support for different applications',
+      'Optimized database performance by implementing indexing, partitioning, and query optimization techniques, resulting in faster data retrieval and processing times',
+      'Experience in driving architectural discussions, making design decisions, and providing technical guidance to ensure alignment with business goals',
+      'Collaborated with cross-functional teams to design the databases and enhance the overall system performance and data retrieval efficiency',
+      'Worked on several healthcare and manufacturing domain automation projects and developed multiple solutions that helped automate several daily tasks using RPA tools and reduced costs'
     ],
   },
 ]
@@ -50,7 +57,7 @@ const education = [
     details: 'CGPA: 3.9',
     activities: [
       'Student leader in Drexel Graduate IEEE and Pragati Associations',
-      'Member of Drexel AI, Graduate Student Association, Drexel Blockchain, Drexel International Student Association',
+      'Member of Drexel AI, Graduate Student Association, Drexel Blockchain, Drexel International Student Association, and Dragons Teach Students Teaching Engaged Minds'
     ],
   },
 ]
@@ -60,9 +67,9 @@ const skills = {
     'Python, PySpark, SQL, Spark-SQL, Scala, R, PL-SQL, T-SQL',
     'Spark, Spark Structured Streaming, Kafka',
     'Azure, Databricks, Azure Synapse, AWS',
-    'MongoDB, Azure SQL DB, SQL Server, Oracle, Data Lakes',
+    'MongoDB, Azure SQL DB, SQL Server, Oracle, Data Lakes, Data Warehouses',
     'ADF, Datadog, Airflow, Power BI, Tableau, Power Automate',
-    'Azure DevOps, Git, Confluence, Jira',
+    'Azure DevOps, Git, Confluence, Jira'
   ],
   soft: [
     'Team Leadership',
@@ -70,7 +77,7 @@ const skills = {
     'Project Management',
     'Problem Solving',
     'Technical Mentoring',
-    'Cross-functional Collaboration',
+    'Cross-functional Collaboration'
   ],
 }
 
