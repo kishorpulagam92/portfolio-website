@@ -28,7 +28,10 @@ export default function Hero() {
             className="flex items-center justify-center md:justify-start gap-2 mb-4"
           >
             <span className="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm font-medium">
-              Data Engineer
+              Senior Data Engineer
+            </span>
+            <span className="px-3 py-1 bg-accent/10 text-accent rounded-full text-sm font-medium">
+              Data Scientist
             </span>
           </motion.div>
 
@@ -36,10 +39,10 @@ export default function Hero() {
             Hi, I'm <span className="text-primary">Nandakishor Reddy Pulagam</span>
           </h1>
           <h2 className="heading-2 text-accent mb-6">
-            Lead Data Engineer | Senior Data Science & Engineering Consultant
+            Senior Data Engineer/Data Scientist | Dallas, Texas
           </h2>
           <p className="body-text mb-8">
-            Senior Data Engineer with 10+ years of experience designing end-to-end data solutions for established corporations. Proven ability to deliver value by designing scalable data pipelines, crafting predictive models, and unlocking insights that empower businesses to succeed in today's data-driven world.
+            Senior Data Engineer/Data Scientist with 10+ years of experience designing end-to-end data solutions and developing predictive models for established corporations. Proven ability to deliver value by designing scalable data pipelines, crafting predictive models, and unlocking insights that empower businesses to succeed in today's data-driven world.
           </p>
 
           {/* Tech Stack Icons */}

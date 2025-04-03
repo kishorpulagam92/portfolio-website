@@ -1,6 +1,10 @@
-# Portfolio Website
+# Nandakishor Reddy Pulagam - Portfolio Website
 
-A modern, responsive portfolio website built with Next.js, TypeScript, and Tailwind CSS.
+A modern, responsive portfolio website showcasing my professional experience as a Senior Data Engineer/Data Scientist. Built with Next.js, TypeScript, and Tailwind CSS.
+
+## Live Demo
+
+Visit my portfolio at: [https://kishorpulagam92.github.io/portfolio-website](https://kishorpulagam92.github.io/portfolio-website)
 
 ## Features
 
@@ -21,11 +25,24 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
 - EmailJS
 - React Icons
 
+## Professional Summary
+
+Senior Data Engineer/Data Scientist with 10+ years of experience designing end-to-end data solutions and developing predictive models for established corporations. Proven ability to deliver value by designing scalable data pipelines, crafting predictive models, and unlocking insights that empower businesses to succeed in today's data-driven world.
+
+## Key Skills
+
+- **Programming Languages**: Python, PySpark, SQL, Spark-SQL, Scala, R, PL-SQL, T-SQL
+- **Frameworks**: Spark, Spark Structured Streaming, Kafka
+- **Cloud Skills**: Azure, Databricks, Azure Synapse, AWS
+- **Databases**: MongoDB, Azure SQL DB, SQL Server, Oracle, Data Lakes, Data Warehouses
+- **Tools**: ADF, Datadog, Airflow, Power BI, Tableau, Power Automate
+- **Version Control**: Azure DevOps, Git, Confluence, Jira
+
 ## Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/kishorpulagam92/portfolio-website.git
    cd portfolio-website
    ```
 
@@ -66,7 +83,7 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
 
 2. GitHub Actions will automatically build and deploy your site to GitHub Pages.
 
-3. Your site will be available at: `https://yourusername.github.io/portfolio-website`
+3. Your site will be available at: `https://kishorpulagam92.github.io/portfolio-website`
 
 ## Setting up EmailJS
 
@@ -89,4 +106,10 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE). 
+This project is open source and available under the [MIT License](LICENSE).
+
+## Contact
+
+- Email: pnkr.492@gmail.com
+- LinkedIn: [Nandakishor Reddy Pulagam](https://www.linkedin.com/in/nandakishor-reddy-pulagam/)
+- Location: Dallas, Texas 
