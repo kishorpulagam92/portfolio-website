@@ -31,7 +31,7 @@ DXC Technology | Senior Data Science & Engineering Consultant 	Sep 2019 – Jun 
 •	Successfully implemented the Medallion Architecture, providing a unified and structured approach to store data from multiple sources, facilitating easy access and analysis.
 •	Practices include leveraging Microsoft's integration capabilities such as Azure Logic Apps and Azure Functions for orchestrating data workflows and implementing custom data transformations. Utilizing industry-standard formats and protocols for data interchange 
 •	Conducted thorough data analysis and quality checks, ensuring the reliability and consistency of data, and implemented industry best practices to optimize data processing and analysis workflows.
-Computer Sciences Corporation | Data Engineer	Aug 2014s – Sep 2019
+Computer Sciences Corporation | Data Engineer	Aug 2014 – Sep 2019
 •	Designed, developed, and maintained an Enterprise Data Warehouse using Microsoft SQL Server to support healthcare data management and analytics.
 •	Created and managed staging (stg) and Operational Data Store (ODS) environments to ensure data integrity, consistency, and accessibility.
 •	Created multiple Oracle Apex applications for a healthcare client and provided database support for different applications.
