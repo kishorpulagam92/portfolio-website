@@ -94,7 +94,7 @@ export default function Hero() {
             <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-accent/20 rounded-full blur-2xl"></div>
             <div className="relative w-full h-full rounded-full overflow-hidden border-4 border-primary/20">
               <img
-                src="/portfolio-website/images/Kishor_pic.jpeg"
+                src="/portfolio-website/images/MyProfilePic.png"
                 alt="Nandakishor Reddy Pulagam"
                 className="w-full h-full object-cover"
               />
